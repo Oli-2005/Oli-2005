@@ -4,9 +4,13 @@
 
 ### 💻 Acerca de mí
 
-Soy [Tu Rol o Título, ej: un desarrollador web full-stack, un estudiante de ciencia de datos, un diseñador UX/UI]. Me apasiona [algo que te guste de tu campo, ej: construir soluciones innovadoras, explorar nuevas tecnologías, diseñar experiencias de usuario intuitivas].
+Sobre Mí
 
-Actualmente estoy [ej: buscando nuevas oportunidades, trabajando en proyectos personales, aprendiendo sobre Inteligencia Artificial]. Mi objetivo es [Tu Objetivo profesional, ej: contribuir a proyectos de código abierto, especializarme en backend con Python, crear aplicaciones móviles que resuelvan problemas cotidianos].
+¡Hola! Soy un entusiasta estudiante universitario de Informática con un año de experiencia práctica y una sólida base en diversos lenguajes de programación. Mi viaje en el mundo de la tecnología está impulsado por una profunda pasión por la informática y, en particular, por el desarrollo de páginas web. Me fascina la forma en que el código se transforma en experiencias interactivas y funcionales, y me encanta ser parte de ese proceso creativo.
+
+Más allá del código, también encuentro una gran satisfacción en el ámbito del diseño gráfico. Disfruto creando flyers y explorando la comunicación visual para transmitir mensajes claros y atractivos. Creo firmemente que una interfaz de usuario bien diseñada y una experiencia visual impactante son tan cruciales como la funcionalidad en cualquier proyecto digital.
+
+Actualmente, estoy en la búsqueda activa de nuevas oportunidades que me permitan seguir creciendo y expandiendo mis conocimientos. Mi objetivo principal es fusionar mis habilidades en informática y diseño gráfico para crear aplicaciones web innovadoras y soluciones digitales personalizadas que satisfagan las necesidades específicas de los clientes. Me motiva la idea de desarrollar herramientas que no solo funcionen a la perfección, sino que también sean intuitivas y visualmente atractivas.
 
 ---
 
@@ -15,33 +19,24 @@ Actualmente estoy [ej: buscando nuevas oportunidades, trabajando en proyectos pe
 Aquí hay algunas de las tecnologías y herramientas con las que me siento cómodo:
 
 **Lenguajes de Programación:**
-* `Python`
 * `JavaScript`
-* `Java`
-* `C++`
+* `PHP`
 * `SQL`
 * `HTML`
 * `CSS`
 
 **Frameworks & Librerías:**
-* `React`
 * `Node.js`
 * `Django`
 * `Spring Boot`
-* `TensorFlow`
 * `Bootstrap`
 
 **Bases de Datos:**
-* `PostgreSQL`
-* `MongoDB`
 * `MySQL`
 
 **Herramientas & Plataformas:**
 * `Git` / `GitHub`
-* `Docker`
-* `AWS`
 * `VS Code`
-* `Figma`
 
 ---
 
