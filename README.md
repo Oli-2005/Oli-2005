@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy [Tu Nombre Completo]
+# ¡Hola a todos! 👋 Soy Olnievmar Silva
 
 ---
 
@@ -40,14 +40,11 @@ Aquí hay algunas de las tecnologías y herramientas con las que me siento cómo
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+###  Mis Proyectos Destacados
 
 Aquí algunos de los proyectos en los que he trabajado y que me gustaría destacar. Sentite libre de explorar los repositorios para más detalles.
 
-* **[Nombre del Proyecto 1]** ([Enlace al Repositorio del Proyecto 1](https://github.com/tu_usuario/nombre_del_repositorio_1)): [Breve descripción del proyecto, ej: Una aplicación web para gestión de tareas construida con React y Node.js.]
-* **[Nombre del Proyecto 2]** ([Enlace al Repositorio del Proyecto 2](https://github.com/tu_usuario/nombre_del_repositorio_2)): [Breve descripción del proyecto, ej: Un modelo de machine learning para predecir precios de casas usando Python y Scikit-learn.]
-* **[Nombre del Proyecto 3]** ([Enlace al Repositorio del Proyecto 3](https://github.com/tu_usuario/nombre_del_repositorio_3)): [Breve descripción del proyecto, ej: Un sitio web responsivo para un negocio local, desarrollado con HTML, CSS y JavaScript puro.]
-* **[Opcional: Otro Proyecto/Contribución]** ([Enlace al Repositorio/Contribución](https://github.com/tu_usuario/otro_repositorio)): [Breve descripción, ej: Una contribución significativa a un proyecto de código abierto.]
+* **Registro de empleados**,(https://github.com/tu_usuario/nombre_del_repositorio_1)): Aplicacion de registro de empleado con javascript.
 
 ---
 
@@ -55,16 +52,11 @@ Aquí algunos de los proyectos en los que he trabajado y que me gustaría destac
 
 Siempre estoy abierto a nuevas conexiones y oportunidades. ¡No dudes en contactarme!
 
-* **LinkedIn:** [Tu Enlace a LinkedIn](https://www.linkedin.com/in/tu_perfil/)
-* **Email:** [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com)
-* **Portafolio Personal (si tenés):** [Tu Enlace al Portafolio Personal](https://tuportafolio.com)
-
+* **Email:** olisilvaafanador@gmail.com **
+* **Telefono:** 0424-3574592
 ---
 
-### 📊 Mis Estadísticas de GitHub (Opcional)
-
-Algunas insignias populares para mostrar tu actividad en GitHub:
-
+© 2025 Todos los derechos reservados.
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
