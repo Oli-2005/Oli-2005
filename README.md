@@ -57,12 +57,4 @@ Siempre estoy abierto a nuevas conexiones y oportunidades. ¡No dudes en contact
 ---
 
 © 2025 Todos los derechos reservados.
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-* **Importante:** Reemplazá `tu_nombre_de_usuario` en los enlaces de las insignias con tu nombre de usuario real de GitHub para que funcionen.
-
----
-
-¡Gracias por visitar mi perfil! 😊
